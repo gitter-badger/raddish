@@ -1,6 +1,8 @@
 Raddish Framework
 =================
 
+[![Join the chat at https://gitter.im/JaspervRijbroek/raddish](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/JaspervRijbroek/raddish?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Raddish Logo](http://getraddish.com/assets/images/logo.svg)](http://getraddish.com)
 
 [![Build Status](https://img.shields.io/travis/JaspervRijbroek/raddish.svg?style=flat-square)](https://travis-ci.org/JaspervRijbroek/raddish)
